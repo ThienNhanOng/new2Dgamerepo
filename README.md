@@ -1,2 +1,1 @@
-# new2Dgamerepo
- 
+# isp-2d-game
